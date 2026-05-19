@@ -1,4 +1,0 @@
-- Built a C++ text-log parser to analyze sensor output files.
-- Used the parser to count readings by distance range.
-- Confirmed the sensor values cluster consistently instead of behaving randomly.
-- Verified the strongest repeated cluster is around 70–80 mm across multiple max range settings.
